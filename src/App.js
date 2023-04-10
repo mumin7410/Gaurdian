@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <History />
+      <h1>hello world</h1>
     </>
   );
 }
