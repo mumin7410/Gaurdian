@@ -7,7 +7,7 @@ function App() {
     <>
       <History />
       <h1>hello world 1</h1>
-      <h1>hello world 2</h1>
+      <h1>hello world 2 wewewewe</h1>
     </>
   );
 }
