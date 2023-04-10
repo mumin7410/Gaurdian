@@ -7,9 +7,6 @@ function App() {
     <>
       <History />
       <h1>hello world 1</h1>
-      <h1>hello world 2 hjhjhjh</h1>
-      <h1>hello world 3</h1>
-      <h1>hello world 5</h1>
     </>
   );
 }
