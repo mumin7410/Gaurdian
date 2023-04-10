@@ -6,8 +6,8 @@ function App() {
   return (
     <>
       <History />
-      <h1>hello world fjkasdl;fjaskdlf;asdfasdfasdfasdfsdfas</h1>
-      <h1>hello world 333333</h1>
+      <h1>hello world 1</h1>
+      <h1>hello world 2</h1>
     </>
   );
 }
