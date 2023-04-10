@@ -1,10 +1,15 @@
 import React from 'react';
-import { Nav } from './Navbar.element';
+import { HeadLogo, Logo, Nav, SubLogo } from './Navbar.element';
 
 const Navbar = () => {
     return(
         <>
-            <Nav>Hello, World</Nav>
+            <Nav>
+                <Logo>
+                    <HeadLogo>WEBSITE</HeadLogo>
+                    <SubLogo>GUARDIAN</SubLogo>
+                </Logo>
+            </Nav>
         </>
     )
 }
