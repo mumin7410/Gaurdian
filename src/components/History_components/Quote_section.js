@@ -1,6 +1,7 @@
 import React from 'react'
 import { Container, Row,Col } from 'react-bootstrap'
 import "../../style/quoteSection.css"
+import svg from "./img_quote.svg"
 
 export default function Quote_section() {
   return (
@@ -19,7 +20,7 @@ export default function Quote_section() {
                         <div className='quote_content'>
                             <p>Lorem ipsum dolor sit amet, adhuc nulla definiebas mei ad, ei doming aperiam delicata est.</p>
                             <div className='user_content'>
-                                <img src="https://media.istockphoto.com/id/921341724/photo/sunrise-in-the-park.jpg?s=612x612&w=0&k=20&c=uoE2MS3oO3LzoF4-wFMAqSSlf41oJnd1TUOOGGhZtlY="/>
+                                <img src={svg}/>
                                 <div >
                                     <p className='name_user'>Savannah Miles</p>
                                     <p className='position_user'>brand manager</p>
@@ -31,7 +32,7 @@ export default function Quote_section() {
                         <div className='quote_content'>
                             <p>Lorem ipsum dolor sit amet, adhuc nulla definiebas mei ad, ei doming aperiam delicata est.</p>
                             <div className='user_content'>
-                                <img src="https://media.istockphoto.com/id/921341724/photo/sunrise-in-the-park.jpg?s=612x612&w=0&k=20&c=uoE2MS3oO3LzoF4-wFMAqSSlf41oJnd1TUOOGGhZtlY="/>
+                                <img src={svg}/>
                                 <div >
                                     <p className='name_user'>Savannah Miles</p>
                                     <p className='position_user'>brand manager</p>
@@ -43,7 +44,7 @@ export default function Quote_section() {
                         <div className='quote_content'>
                             <p>Lorem ipsum dolor sit amet, adhuc nulla definiebas mei ad, ei doming aperiam delicata est.</p>
                             <div className='user_content'>
-                                <img src="https://media.istockphoto.com/id/921341724/photo/sunrise-in-the-park.jpg?s=612x612&w=0&k=20&c=uoE2MS3oO3LzoF4-wFMAqSSlf41oJnd1TUOOGGhZtlY="/>
+                                <img src={svg}/>
                                 <div >
                                     <p className='name_user'>Savannah Miles</p>
                                     <p className='position_user'>brand manager</p>
@@ -51,6 +52,7 @@ export default function Quote_section() {
                             </div>
                         </div>
                     </Col>
+                   
                 </Row>
             </Container>
         </section>
