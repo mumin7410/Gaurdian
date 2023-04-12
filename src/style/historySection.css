@@ -1,16 +1,16 @@
 
-
-
-.history_subtitle{
+.history{
     margin-left: 120px;
     margin-top: 30px;
-    font-weight: 400;
-    font-size: 48px;
-    font-family: 'Poppins';
 }
 
-.content{
-    margin-left: 120px;
+.history_subtitle{
+
+    font-weight: 400;
+    font-size: 48px;
+}
+
+.history_content {
     margin-top: 30px;
     width: 810px;
     height: 99px;
@@ -19,58 +19,53 @@
     line-height: 33.24px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 .history_img1{
-    margin-left: 516.41px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.history_img1 img{
+    height: 266.99481201171875px;
+    width: 382.7833557128906px;
     margin-top: 101.67px;
     margin-right: 13.62px;
-    
-}
-.history_img1 img{
-    width: 382.78px;
-    height: 266.99px;
 
 }
 .history_img2{
-    margin-left: 120px;
-    margin-top: 35.42px;
+    display: flex;
+    justify-content: flex-end;
 }
 .history_img2 img{
-    width: 382.78px;
-    height: 266.99px;
+    height: 266.99481201171875px;
+    width: 382.7833557128906px;
+    margin-top: 35.42px;
     margin-right: 13.62px;
 }
+
 
 
 
 .col-history-img{
     display: flex;
 }
+
 .history_img3 img{
     width: 382.78px;
     height: 569.41px;
+    margin-top: 30.25px;
     margin-right: 13.62px;
-    margin-top: 30px;
-}
 
-.history_img4{
-    margin-top: 30px;
-    display: block;
 }
 .history_img4 img{
-    width: 382.78px;
-    height: 266.99px;
-    margin-right: 13.62px;
-}
-.history_img4 .img-tiger{
-    
-    margin-top: 35.42px;
-}
-
-.img5
-{
-    margin-top: 35.42px;
     height: 266.99481201171875px;
-    width: 779.1889038085938px;
+    width: 382.7833557128906px;
+    margin-top: 30.25px;
 
-
+}
+.history_img5{
+    width: 779.19px;
+    height: 266.99px;
+    margin-top: 35.42px;
 }

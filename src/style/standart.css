@@ -1,0 +1,47 @@
+
+
+
+
+.standard_title{
+    margin-top: 50px;
+    text-align: center;
+}
+.standard_title h4{
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 66px;
+}
+
+.standard_title p{
+    font-weight: 400;
+    font-size: 30px;
+    color: #A61F23;
+}
+
+
+
+
+
+.standard_content{
+    text-align: center;
+    width: 286px;
+    height: 247px;
+    margin-top: 67.93px;
+    margin-bottom: 50px;
+}
+.standard_content img{
+    width: 111px;
+    height: 112px;
+}
+
+.standard_content h3{
+    font-weight: 500;
+    font-size: 32px;
+    margin-top: 15px;
+}
+
+.standard_content p{
+    font-weight: 400;
+    font-size: 16px;
+    color: #52575C;
+}
