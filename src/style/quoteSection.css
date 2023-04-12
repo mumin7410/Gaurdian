@@ -1,0 +1,54 @@
+
+
+.quote_title{
+    text-align: center;
+    margin-top:50px ;
+
+}
+.quote_title h4{
+    font-weight: 500;
+    font-size: 44px;
+    line-height: 66px;
+    color: #A61F23;
+}
+
+.quote_content{
+    margin-top: 60px;
+    margin-bottom: 70px;
+}
+
+.quote_content p{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #25282B;
+}
+
+
+.user_content{
+    display: flex;
+
+}
+
+.user_content img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 9px;
+    margin-top: 9px;
+}
+
+.user_content .name_user{
+    font-weight: 500;
+    font-size: 14px;
+    color: #25282B;
+    margin: 0px;
+}
+
+.user_content .position_user{
+    color: #52575C;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    margin: 0px;
+}
