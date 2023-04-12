@@ -10,11 +10,14 @@
     font-size: 44px;
     line-height: 66px;
     color: #A61F23;
+    font-family: 'Poppins';
 }
 
 .quote_content{
     margin-top: 60px;
     margin-bottom: 70px;
+    font-family: 'Poppins';
+    font-style: normal;
 }
 
 .quote_content p{
@@ -22,6 +25,8 @@
     font-size: 20px;
     line-height: 30px;
     color: #25282B;
+    font-family: 'Poppins';
+    font-weight: 600;
 }
 
 
